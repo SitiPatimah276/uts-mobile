@@ -47,25 +47,25 @@ class HomePage extends StatelessWidget {
   ];
 
   List<Icon> catIcons = [
-    Icon(Icons.safety_check, color: Colors.white, size: 30),
-    Icon(Icons.email_outlined, color: Colors.white, size: 30),
+    Icon(Icons.bolt_outlined, color: Colors.white, size: 30),
+    Icon(Icons.file_copy_outlined, color: Colors.white, size: 30),
     Icon(Icons.assignment, color: Colors.white, size: 30),
     Icon(Icons.store, color: Colors.white, size: 30),
-    Icon(Icons.approval_outlined, color: Colors.white, size: 30),
-    Icon(Icons.storage_outlined, color: Colors.white, size: 30),
+    Icon(Icons.monitor_heart_outlined, color: Colors.white, size: 30),
+    Icon(Icons.document_scanner_outlined, color: Colors.white, size: 30),
   ];
 
   List<Icon> aIcons = [
-    Icon(Icons.sailing, color: Colors.white, size: 30),
-    Icon(Icons.email_outlined, color: Colors.white, size: 30),
-    Icon(Icons.comment_bank, color: Colors.white, size: 30),
-    Icon(Icons.bookmark, color: Colors.white, size: 30),
+    Icon(Icons.money, color: Colors.white, size: 30),
+    Icon(Icons.computer, color: Colors.white, size: 30),
+    Icon(Icons.cloud, color: Colors.white, size: 30),
+    Icon(Icons.save_alt_outlined, color: Colors.white, size: 30),
   ];
 
   List<Icon> bIcons = [
-    Icon(Icons.money, color: Colors.white, size: 30),
-    Icon(Icons.people_alt, color: Colors.white, size: 30),
-    Icon(Icons.drag_handle_sharp, color: Colors.white, size: 30),
+    Icon(Icons.handshake_outlined, color: Colors.white, size: 30),
+    Icon(Icons.book, color: Colors.white, size: 30),
+    Icon(Icons.home, color: Colors.white, size: 30),
   ];
 
   @override
